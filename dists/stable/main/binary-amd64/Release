@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: oz
+Label: Test SWG Repository
+Architecture: amd64
+Description: Private APT repository for the test-swg package (Squid + e2guardian)

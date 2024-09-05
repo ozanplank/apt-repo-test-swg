@@ -1,0 +1,20 @@
+Origin: oz
+Label: Test SWG Repository
+Suite: stable
+Codename: stable
+Date: Thu, 05 Sep 2024 14:07:16 UTC
+Architectures: amd64
+Components: main
+Description: Private APT repository for the test-swg package (Squid + e2guardian)
+MD5Sum:
+ 7b02f6aa0b0bd6ed77ade34b12dcec82 523 main/binary-amd64/Packages
+ 737087a40803fee530cfc844a9bbc824 395 main/binary-amd64/Packages.gz
+ 4d796d030cf3543d2e55a3c882109c28 172 main/binary-amd64/Release
+SHA1:
+ c8781b967f70333e2eb36bee5a3f5cef47a469b2 523 main/binary-amd64/Packages
+ 93270e304523200f3035333e8bbfcf5da75633ea 395 main/binary-amd64/Packages.gz
+ 9ceef648cd95180617186e8ac92a776ed65e14d4 172 main/binary-amd64/Release
+SHA256:
+ fdb7f99cf41745d5eeb23801934fd42778378e2f59e3405a8d826ba43a537051 523 main/binary-amd64/Packages
+ c34ac16d1dd8a151ed431e93a35064ff36c1060cc4c009b3ad2c9c5ecb38a12e 395 main/binary-amd64/Packages.gz
+ a279ba76bded2715ba8971ac21a59c206a402336141770c10938d895d0cb936d 172 main/binary-amd64/Release

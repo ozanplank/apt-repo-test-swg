@@ -1,0 +1,18 @@
+Package: test-swg
+Version: 1.0-1
+Architecture: amd64
+Maintainer: ozan <ozan@test.com>
+Installed-Size: 18
+Depends: squid, e2guardian
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/t/test-swg/test-swg_1.0-1_amd64.deb
+Size: 3940
+SHA256: c49644ab6580c1b7305e1f9d0c004f5306195805be3862f8dbc1d1fc37e29e14
+SHA1: a4580f34d073c64df2038dd6191640d8071d0ea1
+MD5sum: ac7475bb693d786786ba7dc302b27ff9
+Description: swg test package
+ SWG test to URL filtering
+
